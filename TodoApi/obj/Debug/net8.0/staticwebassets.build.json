@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "dbCxO2N89r0MxkZL3k5qjBWXwP8F2Jq2LLriA73Pf1U=",
+  "Source": "vsv_api",
+  "BasePath": "_content/vsv_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "vsv_api\\wwwroot",
+      "Source": "vsv_api",
+      "ContentRoot": "C:\\Users\\bielm\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\",
+      "BasePath": "_content/vsv_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
